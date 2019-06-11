@@ -1,5 +1,8 @@
 import Vue from 'vue'
 import App from './App.vue'
+import vueFilter from './filter'
+
+vueFilter()
 
 Vue.config.productionTip = false
 
